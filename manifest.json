@@ -1,0 +1,17 @@
+{
+  "name" : "crictension",
+  "version" : "1.0.0",
+  "description" : "crictension is a extension which gives cricket updates on ongoing nad completed matches",
+  "manifest_version" : 3,
+  
+  "author" : "ruthwikreddy",
+  "action" : {
+    "default_popup" :"index.html",
+    "default_title" :"crictension"
+  },
+  "icons" :{
+    "16" :"images/logo.png",
+    "32" :"images/logo.png",
+    "48" :"images/logo.png"
+  }
+}
